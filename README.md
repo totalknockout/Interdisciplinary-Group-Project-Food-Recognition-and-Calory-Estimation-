@@ -12,7 +12,7 @@ Our projects aims to offer people an easier way to measure their calories.
 
 We've collected the 50 most popular dishes across the UK and applied ML techniques to them.
 
-Imagine this: you're at a restaurant, the server has just brought your food and you've wondering how many calories this dish has. All you have to do is go into our app, take a picture of your dish and our Machine Learning algorithm will do the rest. You'll be provided with a calories estimate for your dish.
+Imagine this: you're at a restaurant, the waiter has just brought your food and you've wondering how many calories this dish has. All you have to do is go into our app, take a picture of your dish and our Machine Learning algorithm will do the rest. You'll be provided with a calories estimate for your dish.
 
 # How have we done this?
 
